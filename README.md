@@ -1,4 +1,4 @@
-# Android Project 4 - *FLixster+e*
+# Android Project 4 - *FLixster+*
 
 Submitted by: **Jaylin Boyce**
 
