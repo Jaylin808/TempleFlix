@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<!-- Replace this with whatever GIF tool you used! -->
+![MyGif](./TvShow-Walkthrough.gif)
 GIF created with ...  
 
 [Kap](https://getkap.co/) for macOS
