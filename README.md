@@ -1,24 +1,26 @@
-# Android Project 3 - *TempleFLix*
+# Android Project 4 - *FLixster+e*
 
-Submitted by: **jaylin Boyce**
+Submitted by: **Jaylin Boyce**
 
-**TempleFlix** is a movie browsing app that allows users to browse movies currently playing in theaters.
+**Flixster+** is a movie browsing app that allows users to browse Tv Shows
 
-Time spent: **3** hours spent in total
+Time spent: **+24** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [X] **Make a request to [The Movie Database API's `now_playing`](https://developers.themoviedb.org/3/movies/get-now-playing) endpoint to get a list of current movies**
-- [X] **Parse through JSON data and implement a RecyclerView to display all movies**
-- [X] **Use Glide to load and display movie poster images**
+- [X] **Choose any endpoint on The MovieDB API except `now_playing`**
+  - Chosen Endpoint: `Tv Shows`
+- [X] **Make a request to your chosen endpoint and implement a RecyclerView to display all entries**
+- [X] **Use Glide to load and display at least one image per entry**
+- [X] **Click on an entry to view specific details about that entry using Intents**
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-[!MyGif](./Walkthough.gif)
-
+<!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+
 [Kap](https://getkap.co/) for macOS
